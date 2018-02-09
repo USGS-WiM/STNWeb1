@@ -18,7 +18,7 @@
 
     "homepageURL": "https://wim.usgs.gov",
     "downloadURL": "https://github.com/USGS-WiM/STNWeb1/archive/master.zip",
-    "disclaimerURL": "https://github.com/USGS-WiM/STNWeb1/blob/master/LICENSE.md",
+    "disclaimerURL": "https://github.com/USGS-WiM/STNWeb1/blob/master/DISCLAIMER.md",
     "repositoryUrl": "https://github.com/USGS-WiM/STNWeb1",
     "vcs": "git",
 
