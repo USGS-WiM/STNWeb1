@@ -15,9 +15,9 @@ Legacy ASP.NET version of STNWeb.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests to us. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details on adhering by the [USGS Code of Scientific Conduct](https://www2.usgs.gov/fsp/fsp_code_of_scientific_conduct.asp).
 
 ## Authors
-
-* **[Tonia Roddick](https://www.usgs.gov/staff-profiles/tonia-m-roddick)**  - *Lead Developer* - [USGS Web Informatics & Mapping](https://wim.usgs.gov/)
+* **[Lauren Privette](https://www.usgs.gov/staff-profiles/lauren-privette)**  - *Point of Contact* - [USGS Web Informatics & Mapping](https://wim.usgs.gov/)
 * **[Blake Draper](https://www.usgs.gov/staff-profiles/blake-a-draper)** - *Developer* -  [USGS Web Informatics & Mapping](https://wim.usgs.gov/)
+* **[Tonia Roddick](https://github.com/troddick)**  - *Developer*
 
 See also the list of [contributors](../../graphs/contributors) who participated in this project.
 
